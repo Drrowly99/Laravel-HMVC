@@ -1,0 +1,11 @@
+{
+    "name": "Signin",
+    "alias": "signin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Signin\\Providers\\SigninServiceProvider"
+    ],
+    "files": []
+}

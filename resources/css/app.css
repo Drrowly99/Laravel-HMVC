@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+
+/* import new files created in challenge */
+@import "../../public/css_/custom.css";
+@import "../../public/css_/app.css";
+
+@import "./base.css";
+
+
+@import "tailwindcss/components";
+/* @import "./components.css"; */
+
+@import "tailwindcss/utilities";
+
+@import "./pages.css";
+@import "highlight.js/styles/atom-one-dark.css"; /* Just for demo purpose only for highlighting code */
+@import "./fontawesome-all.css";

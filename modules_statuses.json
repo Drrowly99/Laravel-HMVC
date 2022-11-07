@@ -1,0 +1,8 @@
+{
+    "Blog": true,
+    "User": true,
+    "Auth": true,
+    "Signin": true,
+    "Signup": true,
+    "Dashboard": true
+}
