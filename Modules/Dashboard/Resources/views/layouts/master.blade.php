@@ -47,9 +47,10 @@
 
 
     <x-dashboard::sidebar/>
+    
     <x-dashboard::nav/>
-    <x-dashboard::main/>
 
+    <x-dashboard::main/>
 
 
 
